@@ -12,7 +12,7 @@ Audio streaming is done using customized protocol to stream the audio from serve
 
 ## Documentation
 
-Refer docs [here](https://github.com/mrchocha/Audio-Streaming-in-C/tree/main/Docs#common-notations).
+Refer docs [here](https://github.com/luckyman1025/Audio-Streaming-in-C/tree/main/Docs#common-notations).
 
 ## Installing Dependencies
 You must have ` gcc ` on your ubuntu or macOS to run the code. Other dependencies are ` libvlc ` and ` pthread ` libraries and `vlc media player`. To install them, run 
@@ -53,7 +53,7 @@ Now to run `client` run command
 
 ## Measuring jitter and average latency
 
-For detailed understanding of jitter and average latency calculation go [here](https://github.com/mrchocha/Audio-Streaming-in-C/blob/main/Docs/Measuring_Jitter_And_Average_Latency.md#jitter).
+For detailed understanding of jitter and average latency calculation go [here](https://github.com/luckyman1025/Audio-Streaming-in-C/blob/main/Docs/Measuring_Jitter_And_Average_Latency.md#jitter).
 
 ## Authors
 * Luckyman1025 [Luckyman1025](https://github.com/luckyman1025/)
