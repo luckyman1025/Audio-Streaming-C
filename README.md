@@ -56,8 +56,8 @@ Now to run `client` run command
 For detailed understanding of jitter and average latency calculation go [here](https://github.com/mrchocha/Audio-Streaming-in-C/blob/main/Docs/Measuring_Jitter_And_Average_Latency.md#jitter).
 
 ## Authors
-* Rahul Chocha [mrchocha](https://github.com/mrchocha/)
-* Jeet Karia [JeetKaria06](https://github.com/JeetKaria06)
+* Luckyman1025 [Luckyman1025](https://github.com/luckyman1025/)
+* Ngud-119 [NguD-119](https://github.com/ngud-119)
 
 ## Words from Authors
 Special Thanks to Prof. Jitendra Bhatia and Teaching Assitant [Parshwa Shah](https://github.com/parshwa1999) for their valuable guidance.
